@@ -1,0 +1,3 @@
+python C:\Users\angel\OneDrive\Documents\Python\Tkinter\Sudoku\Sudoku.py --board "easy"
+
+python OneDrive\Documents\Python\Tkinter\Sudoku\Sudoku.py --board "easy"
